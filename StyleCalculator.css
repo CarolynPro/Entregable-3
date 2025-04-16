@@ -1,3 +1,9 @@
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 40px;
+
+}
 body {
     font-family: Arial, sans-serif;
     display: flex;
@@ -5,7 +11,8 @@ body {
     align-items: center;
     background-image: url(Imagen1.jpg);
     background-repeat: no-repeat;
-    height: 500px;
+    background-position: center;
+    background-size: cover;
 }
 
 .calculadora {
@@ -53,7 +60,7 @@ button {
 }
 
 .igual {
-    background: rgb(2, 37, 2);
+    background: rgb(26, 192, 26);
     color: white;
 }
 
