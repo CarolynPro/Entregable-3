@@ -4,7 +4,10 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #cfeeaa;
+    background-image: url(Imagen1.jpg);
+    padding: 20px;
+    margin: 30PX;
+    ;
 }
 
 .calculadora {
@@ -47,12 +50,12 @@ button {
 }
 
 .operador {
-    background: orange;
+    background: rgb(238, 171, 47);
     color: white;
 }
 
 .igual {
-    background: green;
+    background: rgb(2, 37, 2);
     color: white;
 }
 
