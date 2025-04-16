@@ -3,12 +3,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     background-image: url(Imagen1.jpg);
     background-repeat: no-repeat;
     padding: 20px;
     margin: 30PX;
-    ;
+    background-size: auto;
 }
 
 .calculadora {
