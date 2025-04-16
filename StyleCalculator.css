@@ -10,9 +10,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100vh;
     background-image: url(Imagen1.jpg);
     background-repeat: no-repeat;
-    background-position: center;
     background-size: cover;
 }
 
