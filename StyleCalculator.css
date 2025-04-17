@@ -16,12 +16,7 @@ body {
     margin: 0;
 }
 
-div{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 40%;
-}
+
 
 .calculadora {
     background: rgb(128, 2, 133);
