@@ -2,7 +2,6 @@ h1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     font-size: 40px;
-    background-image: -o-linear-gradient(pink,green, red, grey);
 
 }
 body {
@@ -15,7 +14,7 @@ body {
     background-size: cover;
 }
 
-#calculadora {
+.calculadora {
     background: rgb(128, 2, 133);
     padding: 20px;
     border-radius: 10px;
@@ -26,7 +25,7 @@ body {
     
 }
 
-.pantalla {
+#pantalla {
     width: 90%;
     height: 50px;
     font-size: 1.5rem;
