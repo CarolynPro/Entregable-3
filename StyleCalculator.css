@@ -2,6 +2,7 @@ h1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     font-size: 40px;
+    color: rgb(231, 142, 9);
 
 }
 body {
@@ -9,9 +10,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100vh;
     background-image: url(Imagen1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 0;
 }
 
 .calculadora {
