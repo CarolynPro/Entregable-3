@@ -1,7 +1,7 @@
 .a{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    font-size: 50px;
+    font-size: 200px;
     color: rgb(231, 142, 9);
 
 }
@@ -16,7 +16,12 @@ body {
     margin: 0;
 }
 
-
+div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
 
 .calculadora {
     background: rgb(128, 2, 133);
