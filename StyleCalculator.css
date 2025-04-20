@@ -8,11 +8,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height:100vh;
     background-image: url(Imagen1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 
 .calculadora {
     background: rgb(128, 2, 133);
